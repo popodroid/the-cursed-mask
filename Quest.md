@@ -1,3 +1,11 @@
+---
+title: The Cursed Mask
+layout: default
+---
+
+<link rel="stylesheet" href="assets/css/osrs.css">
+
+
 # 🕯️ **The Cursed Mask**
 
 ---
