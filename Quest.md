@@ -27,23 +27,7 @@ Completion of the following quests
 
 Garden of Tranquillity
 
-    -Creature of Fenkenstrain
-
-      -The Restless Ghost
-
-    -Priest in Peril
-
 Cabin Fever
-
-    -Rum Deal
-
-      -Zogre Flesh Eaters
-
-        -Big Chompy Bird Hunting
-
-        -Jungle Potion
-
-          -Druidic Ritual
 
 Pandemonium
 
@@ -51,7 +35,6 @@ Ghosts Ahoy
 
 Grim Tales
 
-    -Witch’s House
 
 Quest starting location: High Priest of Entrana
 
