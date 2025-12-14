@@ -24,7 +24,6 @@
 
 - Garden of Tranquillity  
 - Cabin Fever  
-- Rum Deal  
 - Pandemonium  
 - Ghosts Ahoy  
 - Grim Tales  
