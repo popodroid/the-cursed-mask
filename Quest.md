@@ -22,23 +22,13 @@
 
 ### **Completion of the following quests**
 
-Garden of Tranquillity  
-Creature of Fenkenstrain  
-The Restless Ghost  
-Priest in Peril  
+- Garden of Tranquillity  
+- Cabin Fever  
+- Rum Deal  
+- Pandemonium  
+- Ghosts Ahoy  
+- Grim Tales  
 
-Cabin Fever  
-Rum Deal  
-Zogre Flesh Eaters  
-Big Chompy Bird Hunting  
-Jungle Potion  
-Druidic Ritual  
-Priest in Peril  
-
-Pandemonium  
-Ghosts Ahoy  
-Grim Tales  
-Witch’s House  
 
 ---
 
