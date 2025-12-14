@@ -3,13 +3,14 @@ title: The Cursed Mask
 layout: default
 ---
 ## ⚔️ Quest Story
-The Cursed Mask
+**The Cursed Mask**
 Details
 
-Difficulty: Master
-Length: Long
+**Difficulty**: Master
 
-Requirements:
+**Length**: Long
+
+**Requirements**:
 
 58 Slayer
 
@@ -23,7 +24,7 @@ Requirements:
 
 40 Strength
 
-Completion of the following quests
+**Completion of the following quests**:
 
 Garden of Tranquillity
 
@@ -36,9 +37,9 @@ Ghosts Ahoy
 Grim Tales
 
 
-Quest starting location: High Priest of Entrana
+**Quest starting location**: High Priest of Entrana
 
-Introduction
+**Introduction**
 
 The High Priest of Entrana seems deeply concerned about a young apprentice monk named Brother Thaddeus.
 He recently sent the timid scholar on a “spiritual journey” to investigate a minor, “mostly harmless” curse on the distant island of Mos Le’Harmless.
