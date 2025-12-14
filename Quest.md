@@ -1,6 +1,5 @@
----
-title: The Cursed Mask
-layout: default
+# 🪙 The Cursed Mask  
+*A Master Quest for Old School RuneScape*  
 ---
 
 <link rel="stylesheet" href="assets/css/osrs.css">
