@@ -50,7 +50,7 @@ The world frightened him, but knowledge never did.
 
 In those quiet libraries he devoured tales of gods, curses, and ancient materials — knowledge that now makes him both valuable and vulnerable.
 
-Starting Up
+### Starting Up
 
 The High Priest admits one small oversight: Brother Thaddeus’s route to Mos Le’Harmless leads straight through Port Phasmatys, the town of ghosts — and the boy fears everything. And he does not have a ghostspeak amulet with him.
 Without the Ghostspeak Amulet, he’ll never make it past the ghost town.
@@ -58,7 +58,7 @@ Without the Ghostspeak Amulet, he’ll never make it past the ghost town.
 The priest asks you to find Brother Thaddeus in Port Phasmatys and deliver an amulet before his courage fails him.
 If the player doesn’t already have one, Father Urhney can provide a spare.
 
-The Drunken Monk
+### The Drunken Monk
 
 The player finds Brother Thaddeus inside the Port Phasmatys Inn — slumped over a table, clearly drunk.
 When spoken to, he only slurs a few incoherent prayers, and the Ghost Innkeeper quickly intervenes.
@@ -78,7 +78,7 @@ The player must then convince the suspicious and swaying monk to follow them to 
 The player carefully leads the staggering Brother Thaddeus out of the inn and toward the docks. The monk stumbles along, mumbling half-finished prayers and occasionally stopping to apologise to ghosts he thinks he’s offended.
 At the end of the dock, the player suggests he step closer to the edge “for some fresh air.”
 
-Cutscene starts
+#### Cutscene starts
 
 Before Thaddeus can protest, the player gives him a firm shove — sending him tumbling into the cold sea below.
 With a loud splash and a burst of sputtering, the drenched monk surfaces.
@@ -89,7 +89,7 @@ The shock of the icy water snaps him instantly sober.
 Embarrassed but grateful, Brother Thaddeus hauls himself back onto the dock, dripping wet but clear-headed — and shivering.
 When the player tries to speak to him, he only stammers and waves a trembling hand.
 
-Cutscene ends
+#### Cutscene ends
 
 When the player tries to talk to Brother Thaddeus, he shivers:
 
@@ -110,24 +110,24 @@ As the warmth returns to his hands, so does his purpose.
 He remembers his mission: to investigate the cursed energy on Mos Le’Harmless.
 Despite his fear, he insists on continuing — but begs the player to escort him across the sea.
 
-The Sea Voyage
+### The Sea Voyage
 
 The player agrees to escort Brother Thaddeus to Mos Le’Harmless aboard their boat. (Requires a skiff with no crewmates.)
 The young monk spends most of the voyage clinging to the railing, muttering half-remembered prayers each time a wave slaps the hull.
 
-The Ship Graveyard
+### The Ship Graveyard
 
 Their route cuts through the Ship Graveyard — a tangle of splintered masts and half-sunken hulls, the remains of merchant vessels plundered and sunk by pirates over the years.
 This section plays as a Barracuda Trails-style sailing challenge, requiring careful steering through wreckage and floating debris.
 
-Cutscene starts
+#### Cutscene starts
 
 The sea begins to churn violently...
 From the depths rises a massive ghostly galleon, its hull covered in barnacles and coral. The wind catches its wet, tattered, grime-stained sails.
 Ghost pirates appear upon the deck, drawing their cutlasses.
 The giant galleon starts pursuing the player's boat, ramming through the obstacles.
 
-Cutscene ends
+#### Cutscene ends
 
 The player navigates through the course trying to avoid obstacles and keeping their speed up in order to escape the pursuing ghost pirate ship.
 If the ghost pirates catch up, they ram and sink and plunder the skiff emptying the player's cargo hold. The player and Brother Thaddeus are then washed back to Port Phasmatys.
@@ -135,13 +135,14 @@ The player must pay the shipwright to recover the damaged vessel before retrying
 
 At the end of the course, the player’s nimble skiff whizzes between two towering rocks.
 
-Cutscene starts
+#### Cutscene starts
 
 The player stops their boat and looks back.
 The pursuing galleon cannot follow. The ghost pirates yell and wave their swords angrily as the galleon slowly submerges back into the sea, leaving the pair free to sail on.
 
-Cutscene ends
-Finding the Landing Spot
+#### Cutscene ends
+
+### Finding the Landing Spot
 
 Once the danger has passed, Brother Thaddeus refuses to dock at Mos Le’Harmless itself.
 His fear of pirates overwhelms him; even approaching the town’s harbour sends him into a panic.
@@ -154,7 +155,7 @@ While they drift near the island’s north-eastern coast, the monk says:
 He urges the player to land there, convinced it is the true source of the corruption.
 The player decides to moor on the island.
 
-The Sea Horror
+### The Sea Horror
 
 As the skiff nears the small island, the Sea Horror erupts from the depths — a kraken-like beast covered in jagged blackstone shards.
 The player must defeat the creature in sea combat before mooring.
@@ -166,11 +167,11 @@ The Sea Horror occasionally charges up and emits a dark pulse damaging both boat
 During the battle, Brother Thaddeus chants trembling but determined prayers that momentarily strengthen the skiff’s defences and mend small amounts of hull damage.
 Though terrified, his faith holds firm — and for the first time, he fights back against his fear.
 
-The Small Island
+### The Small Island
 
 With the Sea Horror defeated, the player and Brother Thaddeus finally moor the skiff on the shore of the small island.
 
-Cutscene starts
+#### Cutscene starts
 
 Without hesitation — perhaps eager to prove his courage — Thaddeus rushes inside.
 Moments later, he staggers back out, bloodied and barely standing.
@@ -179,11 +180,11 @@ He ran out of prayer points during the sea horror fight and he had no Witchwood 
 Their physical strength and awful howling nearly tore apart his body and mind.
 The monk collapses on the shore, pale and trembling.
 
-Cutscene ends
+#### Cutscene ends
 
 Brother Thaddeus is too weak to eat, too traumatised to drink a potion — and without help, he won’t survive.
 
-Finding a Pirate Doctor
+### Finding a Pirate Doctor
 
 The player realises that on an island of pirates, there must surely be a doctor — with all the sword fights, cannon “mishaps,” and rum-induced disasters, someone must patch them up regularly.
 Determined to save Brother Thaddeus, the player travels to Mos Le’Harmless in search of medical aid.
@@ -192,7 +193,7 @@ The player then must ask around and find out if there is any kind of doctor on t
 Without the Book o’ Piracy, the local pirates respond in indecipherable slang.
 With it, however, their rambling becomes just barely understandable.
 
-Here are some pirate responses:
+#### Here are some pirate responses:
 
 “The Doc? Aye, Dockter Salty B. Jonesy! Hah! He wanders more than a captain’s compass in a whirlpool.
 Sometimes by the tavern, sometimes in the jungle, sometimes talkin’ to crabs.
@@ -224,12 +225,12 @@ He buried it himself while drunk and now can’t seem to locate it.
 
 The player helps Dr. Salty B. Jones locate his rum. The doctor then agrees to help the wounded monk.
 
-The Shortcut and the “Cure”
+### The Shortcut and the “Cure”
 
 Dr. Salty B. Jones agrees to help save Brother Thaddeus.
 The pirate doctor then tells the player that he knows a shortcut and asks the player to follow him.
 
-Cutscene starts
+#### Cutscene starts
 
 “I knows a shortcut, ye scurvy landlubber. Stick close an’ try not t’ break yer neck.”
 
@@ -254,12 +255,12 @@ Being saved by a pirate changes his perspective entirely: not all rogues are vil
 
 Dr. Salty B. Jones, proudly declaring the patient cured, uses his surprising agility once again and flees toward Mos Le’Harmless.
 
-Cutscene ends
+#### Cutscene ends
 
 Brother Thaddeus thanks the player.
 His body healed and his courage restored, he determinedly vows to return to the cave.
 
-The Cave
+### The Cave
 
 Guided by the renewed courage in his heart, Brother Thaddeus insists on returning to the caves beneath Mos Le’Harmless to uncover the truth behind the curse.
 He asks the player to bring him some food (five pieces of lobster or better), a prayer potion and a Witchwood Icon.
@@ -303,7 +304,7 @@ Cultists who survived the attack were lost in the caves and killed by Cave Horro
 The writer of this diary was one of them. They somehow survived and retreated back to the chamber.
 They were stuck between the Horrors and the Terror — later, they starved to death.
 
-Cutscene starts
+#### Cutscene starts
 
 Brother Thaddeus opens a sealed crate. It’s full of black masks. The crate has a “Take-from” option. (Take-from Crate Full of Black Masks)
 
@@ -331,11 +332,11 @@ The player reels as vision warps and blurs; Brother Thaddeus collapses to his kn
 
 Thaddeus feels a burst of adrenaline and dashes out of the chamber.
 
-Cutscene ends
+#### Cutscene ends
 
 The player should leave the chamber as well since they have no means to fight this monstrosity yet.
 
-Leaving the Cave
+### Thalos The Deep
 
 After leaving the chamber, the player talks to Brother Thaddeus:
 
@@ -358,12 +359,10 @@ The player and Thaddeus explain the situation at hand and ask where they can fin
 Cavey Davey tells them that Thalos resides in a small seashore hut near the docks, south-west in the town.
 Cavey Davey decides to investigate the cave himself and heads inside.
 
-Thalos the Deep
-
 Following Cavey Davey’s directions, the player and Brother Thaddeus find a small seaside hut at the edge of Mos Le’Harmless.
 It’s half-built from shipwreck planks and patched with rope and barnacle-stained boards — the kind of place only an old sea dog could call home.
 
-Cutscene starts
+#### Cutscene starts
 
 Thalos the Deep: “Well, I’ll be… Thaddeus, isn’t it? Little Taddy! My nephew!”
 
@@ -424,9 +423,9 @@ Should shine just a little, like wet obsidian.
 Coat the inside of yer hollow branch with the stuff, fix it to yer Witchwood Icon, and leave it in the sun to dry.
 When it hardens, ye’ll have a Witchwood Howl Collector Whistle that’s light, strong, and hungry for noise.”
 
-Cutscene ends
+#### Cutscene ends
 
-The Fight
+### Fight the Terror
 
 With the Witchwood Howl Collector fully charged, the player returns to the hidden chamber deep within the tunnels.
 
@@ -455,8 +454,9 @@ Thrash: Leaps and flails violently, striking everything nearby without sense of 
 The creature hits hard and moves unpredictably.
 When reduced to 0 hitpoints, the Cave Terror collapses to the ground, trembling.
 
-Anchoring the Beast
-Cutscene starts
+### Anchoring the Beast
+
+#### Cutscene starts
 
 As the beast collapses, Brother Thaddeus and Cavey Davey rush into the chamber.
 The massive creature lies still, faint wisps of blackstone energy fading from its body.
@@ -494,7 +494,7 @@ If such a potion exists… perhaps we could use it on the anchor!”
 
 Cavey Davey: “Shrinkin’ anchors now, are we? Heh! Mad as a cabin rat… but I like it.”
 
-Cutscene ends
+#### Cutscene ends
 
 The player travels to the northern shore of Mos Le’Harmless, where a massive rusted anchor lies half-buried among the rocks.
 The player mixes a Shrink-Me-Quick potion, then pours it over the anchor.
@@ -505,7 +505,7 @@ The player carries the anchor back through the tunnels into the Cave Terror’s 
 
 As the player clicks ‘throw the anchor into the pit’:
 
-Cutscene starts
+#### Cutscene starts
 
 The player hurls the anchor into the pit — the effect of the potion wears off, and the anchor grows back to its full size.
 
@@ -538,12 +538,13 @@ Cavey Davey: “Well… if that ain’t the wildest day I’ve had this week. Wh
 Brother Thaddeus agrees.
 They leave the chamber.
 
-Cutscene ends
-The Celebration
+#### Cutscene ends
+
+### The Celebration
 
 The player then follows his friends to Harpoon Joe’s — The House o’ Rum.
 
-Cutscene starts
+#### Cutscene starts
 
 The Player, Thalos the Deep, Brother Thaddeus, Cavey Davey, and Doctor Salty B. Jones are surrounded by a dozen pirates — all celebrating the day’s victory.
 The crowd cheers and drinks deeply throughout the night.
@@ -593,7 +594,7 @@ To the beast what sleeps, and the mystery o’ B!”
 The camera pans back as laughter fills the tavern, glowing with warmth and firelight.
 The heroes — pirate, priest, slayer, and doctor — share one last toast together.
 
-Cutscene ends
+#### Cutscene ends
 
 The player then wakes up at the shore near Thalos’s hut.
 Brother Thaddeus is in the hut with Thalos.
@@ -604,8 +605,9 @@ Thaddeus agrees to leave but he has a bad hangover and asks the player to dock t
 The player and Brother Thaddeus then sail back to Entrana, where the worried High Priest is waiting.
 They tell the High Priest that there was just a minor, mostly harmless curse and it’s dealt with.
 
-🎉 Congratulations! Quest Completed!
-Rewards:
+#### 🎉 Congratulations! Quest Completed!
+
+**Rewards**:
 
 15,000 Slayer XP
 
@@ -625,7 +627,7 @@ Rewards:
 
 Quest Points: 2
 
-Unlocks:
+**Unlocks**:
 
 The player can now craft and wear Witchwood Howl Collectors
 
@@ -653,7 +655,7 @@ After the quest, the Cave Terror has more limited movement because it is now cha
 During the fight, if a player goes out of its melee range, it starts doing the rock hurl attack at accelerating speed, ignoring prayers until the player returns to range.
 The Burrowing Lunge attack now moves in circular motion.
 
-The Cave Terror Unique Drops:
+**The Cave Terror Unique Drops**:
 
 Black Mask — 1/100
 
