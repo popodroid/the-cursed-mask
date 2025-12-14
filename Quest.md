@@ -131,7 +131,7 @@ The young monk spends most of the voyage clinging to the railing, muttering half
 
 ---
 
-## **The Ship Graveyard**
+### **The Ship Graveyard**
 
 Their route cuts through the Ship Graveyard — a tangle of splintered masts and half-sunken hulls, the remains of merchant vessels plundered and sunk by pirates over the years.  
 This section plays as a *Barracuda Trails*-style sailing challenge, requiring careful steering through wreckage and floating debris.
@@ -172,7 +172,7 @@ The ghost pirates yell and wave their swords angrily, and the galleon slowly sub
 
 ---
 
-## **Finding the Landing Spot**
+### **Finding the Landing Spot**
 
 Once the danger has passed, Brother Thaddeus refuses to dock at **Mos Le’Harmless** itself.  
 His fear of pirates overwhelms him; even approaching the town’s harbour sends him into a panic.  
@@ -187,7 +187,7 @@ The player decides to moor on the island.
 
 ---
 
-## **The Sea Horror**
+### **The Sea Horror**
 
 As the skiff nears the small island, the Sea Horror erupts from the depths — a kraken-like beast covered in jagged blackstone shards.  
 The player must defeat the creature in sea combat before mooring.  
@@ -225,7 +225,7 @@ Brother Thaddeus is too weak to eat, too traumatised to drink a potion — and w
 
 ---
 
-## **Finding a Pirate Doctor**
+### **Finding a Pirate Doctor**
 
 The player realises that on an island of pirates, there must surely be a doctor — with all the sword fights, cannon “mishaps,” and rum-induced disasters, someone must patch them up regularly.  
 Determined to save Brother Thaddeus, the player travels to **Mos Le’Harmless** in search of medical aid.  
@@ -279,7 +279,7 @@ The doctor then agrees to help the wounded monk.
 
 ---
 
-## **The Shortcut and the “Cure”**
+### **The Shortcut and the “Cure”**
 
 Dr. Salty B. Jones agrees to help save Brother Thaddeus.  
 The pirate doctor then tells the player that he knows a shortcut and asks the player to follow him.
@@ -400,7 +400,7 @@ The player should leave the chamber as well since they have no means to fight th
 
 ---
 
-## **Leaving the Cave**
+## ** **Thalos the Deep**
 
 After leaving the chamber, the player talks to Brother Thaddeus:
 
@@ -418,10 +418,6 @@ The player and Thaddeus explain the situation at hand and ask where they can fin
 Cavey Davey tells them that Thalos resides in a small seashore hut near the docks — south-west in the town.  
 
 Cavey Davey decides to investigate the cave himself and heads inside.
-
----
-
-## **Thalos the Deep**
 
 Following Cavey Davey’s directions, the player and Brother Thaddeus find a small seaside hut at the edge of **Mos Le’Harmless.**  
 It’s half-built from shipwreck planks and patched with rope and barnacle-stained boards — the kind of place only an old sea dog could call home.
@@ -529,7 +525,7 @@ When it reaches **100 charges**, a message appears:
 > “The Witchwood Howl Collector is now charged. You are prepared to face the Cave Terror.”
 
 ---
-## **The Fight**
+## **Fighting the Terror**
 
 With the Witchwood Howl Collector fully charged, the player returns to the hidden chamber deep within the tunnels.
 
@@ -746,8 +742,8 @@ The *Burrowing Lunge* attack now moves in a circular motion.
     - The player can attack their opponent from 5 squares away, leaping at the target and then landing next to the opponent.  
     - If the player is frozen or stunned, they cannot use the special attack.  
 
-- **Pet: Tiny Terror** — 1/1500  
-  > “A miniature version of the Cave Terror, harmless… probably.”
+- **Pet: Mostly Harmless Individual** — 1/1500  
+  > “A suspiciously polite miniature version of the Cave Terror”
 
 ---
 
